@@ -7,7 +7,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to listen a music
 
-* GitHub stats:  
+### GitHub stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 
@@ -19,6 +19,6 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ardzz&show_icons=true&line_height=27&include_all_commits=true&theme=tokyonight" alt="My github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ardzz&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
 
 </a>  
