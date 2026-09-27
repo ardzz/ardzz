@@ -19,7 +19,6 @@ focus:
   - Backend & Full-Stack Development
   - DevOps & Observability
   - Application Security
-fun_fact: "Bisa nulis firmware ESP32 pagi hari, deploy FastAPI siang, review CVE malam 🌙"
 ```
 
 ## What I Do
