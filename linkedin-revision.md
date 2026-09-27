@@ -8,11 +8,13 @@ Software Engineer | Backend & IoT Platforms | DevOps & Application Security
 
 ## About
 
-I'm a software engineer who builds systems that connect devices, data, and people, from embedded firmware and data pipelines to backend services and web dashboards.
+I'm a software engineer, and most of my work is IoT. I've written ESP32 firmware, the backend services that receive and store device data, and the dashboards people use to read it.
 
-My work spans IoT platforms, backend and full-stack development, and DevOps, where I keep services deployed, monitored, and recoverable. Security is part of how I build, shaped by competitive cybersecurity experience, including several national first-place finishes.
+I also work as a DevOps engineer at Innovasia, where I look after deployments and monitoring for production services.
 
-I work remotely and am open to Backend, IoT Platform, Full-Stack, DevOps, and Security Engineering roles. Best reached via email or DM.
+Outside work I compete in CTFs, and I've taken first place at three national cybersecurity competitions.
+
+I work remotely and I'm open to backend, IoT, full-stack, DevOps, and security roles. Email or DM is the best way to reach me.
 
 ## Experience
 
@@ -20,41 +22,41 @@ I work remotely and am open to Backend, IoT Platform, Full-Stack, DevOps, and Se
 
 **Software Engineer | Aug 2025 to present**
 
-Develop and maintain the company's IoT platform, from device data ingestion to web dashboards and reporting. I build new features, fix issues, and keep services reliable as the platform grows.
+I work on the company's IoT platform: the services that take in device data, the databases behind them, and the dashboards and reports on top. Most days that means building features and fixing bugs.
 
 **Lead Software Architect | Mar 2025 to Aug 2025**
 
-Designed the initial architecture of the company's IoT platform, covering how data moves from devices through backend services to storage and dashboards. Set up the core services, database design, and development foundations the team continues to build on.
+I designed the first version of the platform: how data gets from the devices through the backend into storage and onto the dashboards. I also set up the core services and the database schema the team still builds on.
 
 ### PT. Innovasia Inovasi Indonesia
 
 **DevOps Engineer | Aug 2025 to present**
 
-Keep production services deployed, monitored, and recoverable. My work covers deployment workflows, monitoring and alerting, reliability reporting, backups, and security hardening across applications and infrastructure.
+I handle deployments and monitoring for Innovasia's production services. I also keep the database backups tested and fix security issues in the apps and servers.
 
 **Backend Engineer & Technical Consultant (Freelance) | Jul 2025 to Aug 2025**
 
-Rebuilt the company's WhatsApp messaging service into a more reliable broadcast system, with better error handling, queue-based delivery, and simpler Docker-based deployment.
+I rebuilt Innovasia's WhatsApp broadcast service. The new version sends messages through a queue and runs in Docker, so it's more reliable and easier to deploy.
 
 ### Maghfirah Travel | Haji & Umrah Eksekutif
 
 **Fullstack Developer**
 
-Maintained and developed the company's travel booking website and admin tools: adding features, fixing bugs, and improving the deployment process.
+I maintained the company's travel booking website and its admin tools, added features, and set up the CI/CD pipeline used for deployment.
 
 ## Projects
 
 **ABN SONIC: Digital Stethoscope Pipeline | 2026**  
-Built an end-to-end pipeline connecting a digital stethoscope to a lung-sound classification model, from device firmware to inference.
+I connected a digital stethoscope to a lung-sound classification model. I built the ESP32 firmware that reads audio from the device and the pipeline that runs the model on it.
 
 **RouteMQ: Python MQTT Framework | 2025 to 2026**  
-Open-source Python framework for building MQTT-based applications. [GitHub](https://github.com/ardzz/RouteMQ)
+An open-source Python framework for MQTT apps. It routes topics to handlers the way a web framework routes URLs. [GitHub](https://github.com/ardzz/RouteMQ)
 
 **NeuronLab: ML Learning Platform | 2025 to 2026**  
-Interactive platform for learning machine learning, with a web frontend and API backend. [Frontend](https://github.com/NeuronLab-ID/frontend) · [Backend](https://github.com/NeuronLab-ID/backend)
+A site for learning machine learning by solving exercises. I built both the Next.js frontend and the FastAPI backend. [Frontend](https://github.com/NeuronLab-ID/frontend) · [Backend](https://github.com/NeuronLab-ID/backend)
 
 **Attack-Defense CTF Platform | 2026**  
-Platform for running attack-defense cybersecurity competitions. [GitHub](https://github.com/Cyb0xOne/platform-ad)
+The platform for an attack-defense CTF event. I wrote the checker integrations and the admin dashboard. [GitHub](https://github.com/Cyb0xOne/platform-ad)
 
 ## Honors & Awards
 

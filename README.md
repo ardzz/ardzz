@@ -10,10 +10,10 @@
 name: Naufal Reky Ardhana
 role: Software Engineer
 companies:
-  - PT Autentik Karya Analitika — Software Engineer (IoT platform)
-  - PT Innovasia Inovasi Indonesia — DevOps Engineer
+  - PT Autentik Karya Analitika, Software Engineer (IoT platform)
+  - PT Innovasia Inovasi Indonesia, DevOps Engineer
 location: Semarang, Indonesia
-education: Politeknik Negeri Semarang — Teknologi Rekayasa Komputer
+education: Politeknik Negeri Semarang, Teknologi Rekayasa Komputer
 focus:
   - IoT Platform Engineering
   - Backend & Full-Stack Development
@@ -24,10 +24,10 @@ fun_fact: "Bisa nulis firmware ESP32 pagi hari, deploy FastAPI siang, review CVE
 
 ## What I Do
 
-- Building end-to-end IoT systems — from ESP32 firmware to MQTT data pipelines, backend services, and dashboards
-- DevOps — containerized deployments, monitoring and alerting, backups, and security hardening
-- Security — CTF competitor with national first-place finishes; PoCs for published CVEs
-- Open source — MQTT framework RouteMQ and PHP packages on Packagist
+- Most of my work is IoT: ESP32 firmware, MQTT pipelines, backend services, and dashboards.
+- At Innovasia I handle deployments and monitoring for production services.
+- I play CTFs and write PoCs for published CVEs.
+- I maintain [RouteMQ](https://github.com/ardzz/RouteMQ), an MQTT framework for Python.
 
 ## Tech Stack
 
@@ -52,17 +52,6 @@ fun_fact: "Bisa nulis firmware ESP32 pagi hari, deploy FastAPI siang, review CVE
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-## Featured Projects
-
-| Project | Description | Tech | Stars |
-|---------|-------------|------|-------|
-| [RouteMQ](https://github.com/ardzz/RouteMQ) | MQTT routing framework with middleware, queues, and telemetry | Python, Redis | ![Stars](https://img.shields.io/github/stars/ardzz/RouteMQ?style=flat) |
-| [NeuronLab](https://github.com/NeuronLab-ID/frontend) | Interactive platform for learning machine learning | Next.js, FastAPI | ![Stars](https://img.shields.io/github/stars/NeuronLab-ID/frontend?style=flat) |
-| [platform-ad](https://github.com/Cyb0xOne/platform-ad) | Platform for running attack-defense CTF competitions | FastAPI, PostgreSQL | ![Stars](https://img.shields.io/github/stars/Cyb0xOne/platform-ad?style=flat) |
-| [OpenWAClient](https://github.com/ardzz/OpenWAClient) | WhatsApp automation PHP library (Packagist) | PHP | ![Stars](https://img.shields.io/github/stars/ardzz/OpenWAClient?style=flat) |
-| [flag-quiz-backend](https://github.com/ardzz/flag-quiz-backend) | Quiz REST API with tests and Docker setup | Node.js, Express | ![Stars](https://img.shields.io/github/stars/ardzz/flag-quiz-backend?style=flat) |
-| [CVE-2022-1386](https://github.com/ardzz/CVE-2022-1386) | PoC for a published SSRF in WordPress Fusion Builder | Python | ![Stars](https://img.shields.io/github/stars/ardzz/CVE-2022-1386?style=flat) |
 
 ## GitHub Stats
 
