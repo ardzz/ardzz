@@ -8,10 +8,9 @@
 
 ```yaml
 name: Naufal Reky Ardhana
-role: Software Engineer
-companies:
-  - PT Autentik Karya Analitika, Software Engineer (IoT platform)
-  - PT Innovasia Inovasi Indonesia, DevOps Engineer
+roles:
+  - Software Engineer (IoT platform)
+  - DevOps Engineer
 location: Semarang, Indonesia
 education: Politeknik Negeri Semarang, Teknologi Rekayasa Komputer
 focus:
@@ -24,7 +23,7 @@ focus:
 ## What I Do
 
 - Most of my work is IoT: ESP32 firmware, MQTT pipelines, backend services, and dashboards.
-- At Innovasia I handle deployments and monitoring for production services.
+- I also work as a DevOps engineer, handling deployments and monitoring for production services.
 - I play CTFs and write PoCs for published CVEs.
 - I maintain [RouteMQ](https://github.com/ardzz/RouteMQ), an MQTT framework for Python.
 

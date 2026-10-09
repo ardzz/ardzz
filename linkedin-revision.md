@@ -1,6 +1,6 @@
 # LinkedIn Profile Revision
 
-Copy for the LinkedIn profile. Experience follows the entries currently on LinkedIn; replace each description in place.
+Copy for the LinkedIn profile. Replace each Experience description in place.
 
 ## Headline
 
@@ -10,7 +10,7 @@ Software Engineer | Backend & IoT Platforms | DevOps & Application Security
 
 I'm a software engineer, and most of my work is IoT. I've written ESP32 firmware, the backend services that receive and store device data, and the dashboards people use to read it.
 
-I also work as a DevOps engineer at Innovasia, where I look after deployments and monitoring for production services.
+I also work as a DevOps engineer, looking after deployments and monitoring for production services.
 
 Outside work I compete in CTFs, and I've taken first place at three national cybersecurity competitions.
 
@@ -18,31 +18,25 @@ I work remotely and I'm open to backend, IoT, full-stack, DevOps, and security r
 
 ## Experience
 
-### PT Autentik Karya Analitika
-
 **Software Engineer | Aug 2025 to present**
 
-I work on the company's IoT platform: the services that take in device data, the databases behind them, and the dashboards and reports on top. Most days that means building features and fixing bugs.
+I work on an IoT platform: the services that take in device data, the databases behind them, and the dashboards and reports on top. Most days that means building features and fixing bugs.
 
 **Lead Software Architect | Mar 2025 to Aug 2025**
 
 I designed the first version of the platform: how data gets from the devices through the backend into storage and onto the dashboards. I also set up the core services and the database schema the team still builds on.
 
-### PT. Innovasia Inovasi Indonesia
-
 **DevOps Engineer | Aug 2025 to present**
 
-I handle deployments and monitoring for Innovasia's production services. I also keep the database backups tested and fix security issues in the apps and servers.
+I handle deployments and monitoring for production services. I also keep the database backups tested and fix security issues in the apps and servers.
 
 **Backend Engineer & Technical Consultant (Freelance) | Jul 2025 to Aug 2025**
 
-I rebuilt Innovasia's WhatsApp broadcast service. The new version sends messages through a queue and runs in Docker, so it's more reliable and easier to deploy.
-
-### Maghfirah Travel | Haji & Umrah Eksekutif
+I rebuilt a WhatsApp broadcast service. The new version sends messages through a queue and runs in Docker, so it's more reliable and easier to deploy.
 
 **Fullstack Developer**
 
-I maintained the company's travel booking website and its admin tools, added features, and set up the CI/CD pipeline used for deployment.
+I maintained a travel booking website and its admin tools, added features, and set up the CI/CD pipeline used for deployment.
 
 ## Projects
 
