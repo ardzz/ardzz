@@ -24,8 +24,6 @@ focus:
 
 - Most of my work is IoT: ESP32 firmware, MQTT pipelines, backend services, and dashboards.
 - I also work as a DevOps engineer, handling deployments and monitoring for production services.
-- I play CTFs and write PoCs for published CVEs.
-- I maintain [RouteMQ](https://github.com/ardzz/RouteMQ), an MQTT framework for Python.
 
 ## Tech Stack
 
