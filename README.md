@@ -22,8 +22,9 @@ focus:
 
 ## What I Do
 
-- Most of my work is IoT: ESP32 firmware, MQTT pipelines, backend services, and dashboards.
-- I also work as a DevOps engineer, handling deployments and monitoring for production services.
+- Most of my work is IoT. I write ESP32 firmware, and behind it I build the MQTT ingestion services, ClickHouse storage, device configuration, data exports, and web dashboards.
+- I also run the servers for that platform: nine Linux VPS nodes managed with Ansible and Docker and connected over a self-hosted Headscale (Tailscale) network. Traefik sits in front, Grafana, Loki, and Beszel collect logs and metrics, and CrowdSec and fail2ban block attacks. I test the database backups by restoring them, and one service ships through CI/CD with blue/green deploys.
+- My other role is DevOps engineer, where I handle deployments and monitoring for production services.
 
 ## Tech Stack
 
